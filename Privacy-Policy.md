@@ -82,7 +82,7 @@ The Right to Object: You can object to us using your data for certain purposes (
 
 The Right to Withdraw Consent: You can withdraw your consent at any time for any data processing that is based on your consent.
 
-To exercise any of these rights, please contact us at kywong.design@gmail.com.
+To exercise any of these rights, please contact us at support@speakarchie.app.
 
 7. Specific Information for European Users (GDPR)
 
@@ -98,4 +98,4 @@ We may update this policy. We will notify you of significant changes through the
 
 10. Contact Us
 
-If you have any questions, please contact us at kywong.design@gmail.com.
+If you have any questions, please contact us at support@speakarchie.app.
