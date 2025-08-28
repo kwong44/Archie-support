@@ -80,4 +80,4 @@ We reserve the right, at our sole discretion, to modify or replace these Terms a
 
 13. Contact Us
 
-If you have any questions about these Terms, please contact us at: kywong.design@gmail.com.
+If you have any questions about these Terms, please contact us at: support@speakarchie.app.
